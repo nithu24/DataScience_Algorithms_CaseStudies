@@ -10,7 +10,7 @@ Rape - Rape rate in different places of United States
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2) Perform clustering (hierarchical,K means clustering and DBSCAN) for the airlines data to obtain optimum number of clusters. 
+2) Perform Hierarchical Clustering for the airlines data to obtain optimum number of clusters. 
 Draw the inferences from the clusters obtained.
 
 Data Description:
