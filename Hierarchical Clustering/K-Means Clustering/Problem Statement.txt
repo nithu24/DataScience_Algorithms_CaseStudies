@@ -1,4 +1,4 @@
-1) Perform Hierarchical Clustering for the crime data and identify the number of clusters formed and draw inferences.
+1) Perform K-Means Clustering for the crime data and identify the number of clusters formed and draw inferences.
 
 Data Description:
 Murder -- Muder rates in different places of United States
