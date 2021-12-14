@@ -1,0 +1,3 @@
+1)   Build sentimental model using elon musk dataset
+
+2)   Build a model for amazon reviews 
